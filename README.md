@@ -30,7 +30,7 @@ This test is optional and only valid for tests running on AWS servers.
 
 The Performance Testing Platform provides two modules - the server & the client module. Both needs to be configured and executed separately on the respective nodes to start the test setup. Client nodes automatically connect to the server node. When a test is started, server can use all available client nodes.
 
-## Following are the instructions to configure and execute both these modules.
+Following are the instructions to configure and execute both these modules.
 
 ## Server Module
 
@@ -107,4 +107,4 @@ The Client module is started by executing following command in the command shell
 ```bash
 $ node client.js
 ```
-## Note: User can open the Test Client Dashboard at ‘http://{host}:{port}/dashboard’ where they can provide all the test inputs to start the test.
+Note: User can open the Test Client Dashboard at ‘http://{host}:{port}/dashboard’ where they can provide all the test inputs to start the test.
