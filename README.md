@@ -116,3 +116,4 @@ A report is prepared by analysing multiple log files created for all the input U
 User can drill down to the actual log details by clicking the links on the consolidated report. 
 
 <img src="https://cloud.githubusercontent.com/assets/6837042/3777895/538c1ac0-1969-11e4-81f5-b15f29a09e38.gif"></img>
+[Video link](http://youtu.be/dZkvbf0k6tQ)
