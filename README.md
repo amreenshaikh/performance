@@ -36,7 +36,7 @@ Following are the instructions to configure and execute both these modules.
 
 Server module interacts with the test client and sends request to client nodes to perform the test. The server module has following directory structure:
 
-Folder/File  	| Description
+Folder/Files  | Description
 ------------- | -------------
 ./dashboard  	| Contains files/directories related to user interface
 ./tests  		  | Contains files related to different tests performed
@@ -79,7 +79,7 @@ The client module executes the tasks provided by server & returns the response b
 
 It contains the following directory structure: 
 
-File  	      | Description
+Files  	      | Description
 ------------- | -------------
 ./config.js 	| Configuration file for client module
 ./client.js  	| Used to start the client module
@@ -108,3 +108,11 @@ The Client module is started by executing following command in the command shell
 $ node client.js
 ```
 Note: User can open the Test Client Dashboard at ‘http://{host}:{port}/dashboard’ where they can provide all the test inputs to start the test.
+
+## Consolidated Report
+
+A report is prepared by analysing multiple log files created for all the input URLs and an average report is generated specifying the details of the test. The report provides the details of each iteration level based on concurrent request separately.
+
+User can drill down to the actual log details by clicking the links on the consolidated report. 
+
+<img src="https://cloud.githubusercontent.com/assets/6837042/3777895/538c1ac0-1969-11e4-81f5-b15f29a09e38.gif"></img>
