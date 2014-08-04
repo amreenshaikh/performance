@@ -50,9 +50,9 @@ $ /etc/init.d/apache2 stop
 ```
 
 Install NodeJS
-```
+
 [http://nodejs.org/](http://nodejs.org/)
-```
+
 ### To download BOLT
 ```bash
 $ git clone https://github.com/accionlabs/BOLT.git
