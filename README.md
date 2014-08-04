@@ -56,6 +56,7 @@ Install NodeJS
 ### To download BOLT
 ```bash
 $ git clone https://github.com/accionlabs/BOLT.git
+$ cd BOLT/
 ```
 OR
  
