@@ -58,7 +58,7 @@ Install NodeJS
 $ git clone https://github.com/accionlabs/BOLT.git
 ```
 OR
-
+ 
 ```bash
 $ wget https://github.com/accionlabs/BOLT/archive/master.zip
 $ unzip master.zip
