@@ -26,6 +26,28 @@ After accumulating Apache Benchmark reports, series of tests are started to coll
 
 This test is optional and only valid for tests running on AWS servers.
 
+## Installation instructions
+
+### Prerequisite:
+	- `Apache Server`
+	- `Nodejs`
+
+To install Apache server execute below command in terminal
+
+```bash
+$ sudo apt-get install apache2
+```
+To start the Apache server
+```bash
+$ /etc/init.d/apache2 start
+```
+
+To stop the Apache server
+```bash
+$ /etc/init.d/apache2 stop
+
+To install nodejs [click here](http://nodejs.org/)
+
 ## Usage Instructions
 
 The Performance Testing Platform provides two modules - the server & the client module. Both needs to be configured and executed separately on the respective nodes to start the test setup. Client nodes automatically connect to the server node. When a test is started, server can use all available client nodes.
