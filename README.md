@@ -30,8 +30,8 @@ This test is optional and only valid for tests running on AWS servers.
 
 ##### Prerequisite:
 
-	* Apache Server
-	* Nodejs
+* Apache Server
+* Nodejs
 
 
 To install Apache server execute below command in terminal
