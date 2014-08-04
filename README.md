@@ -49,7 +49,7 @@ To stop the Apache server
 $ /etc/init.d/apache2 stop
 ```
 
-To install nodejs [click here](http://nodejs.org/)
+Install [NodeJS](http://nodejs.org/)
 
 ## Usage Instructions
 
