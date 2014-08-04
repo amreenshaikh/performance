@@ -49,7 +49,20 @@ To stop the Apache server
 $ /etc/init.d/apache2 stop
 ```
 
-Install [NodeJS](http://nodejs.org/)
+Install NodeJS
+```
+[http://nodejs.org/](http://nodejs.org/)
+```
+### To download BOLT
+```bash
+$ git clone https://github.com/accionlabs/BOLT.git
+
+OR
+
+$ wget https://github.com/accionlabs/BOLT/archive/master.zip
+$ unzip master.zip
+$ cd BOLT-master/
+```
 
 ## Usage Instructions
 
