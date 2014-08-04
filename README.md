@@ -29,8 +29,10 @@ This test is optional and only valid for tests running on AWS servers.
 ## Installation instructions
 
 ### Prerequisite:
+```javascript
 	- `Apache Server`
 	- `Nodejs`
+```	
 
 To install Apache server execute below command in terminal
 
@@ -45,6 +47,7 @@ $ /etc/init.d/apache2 start
 To stop the Apache server
 ```bash
 $ /etc/init.d/apache2 stop
+```
 
 To install nodejs [click here](http://nodejs.org/)
 
