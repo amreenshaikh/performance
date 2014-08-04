@@ -28,11 +28,10 @@ This test is optional and only valid for tests running on AWS servers.
 
 ## Installation instructions
 
-### Prerequisite:
-```javascript
-	- `Apache Server`
-	- `Nodejs`
-```	
+##### Prerequisite: #####
+	* Apache Server
+	* Nodejs
+
 
 To install Apache server execute below command in terminal
 
